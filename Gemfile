@@ -33,6 +33,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem 'json'
+gem 'gyoku'
+gem 'nori'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
