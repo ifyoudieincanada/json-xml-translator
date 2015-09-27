@@ -17,7 +17,7 @@
 /tmp
 
 # Ignore gems
-/bundle/install
+/vendor/bundle
 
 # Ignore swap files
 *.sw?
